@@ -11,9 +11,10 @@ email: cjgaliana@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Spaghetti Code
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cjgaliana.com" # the base hostname & protocol for your site
+url: "http://cjgaliana.github.io/" # the base hostname & protocol for your site
 twitter_username: cjgaliana
 github_username:  cjgaliana
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:day/:title
