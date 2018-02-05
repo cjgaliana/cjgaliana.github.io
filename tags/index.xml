@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on cjgaliana</title>
-    <link>http://cjgaliana.com/tags/</link>
+    <link>http://cjgaliana.github.io/tags/</link>
     <description>Recent content in Tags on cjgaliana</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     
-	<atom:link href="http://cjgaliana.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://cjgaliana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Scene</title>
-      <link>http://cjgaliana.com/tags/scene/</link>
+      <link>http://cjgaliana.github.io/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>http://cjgaliana.com/tags/scene/</guid>
+      <guid>http://cjgaliana.github.io/tags/scene/</guid>
       <description></description>
     </item>
     
